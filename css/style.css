@@ -4,6 +4,7 @@
 
 body{
     margin: 0;
+    display: none;
 }
 
 h1,h2,h3{
